@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="332a6241811b8c12127265393e34558d7bd0e599">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-jackson2-1.20.0_ac8825d6878ae6e140f16291f80d9d569ef5f7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-api-services-youtube-v3-rev149-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54eab28f4dc9aa0b36b75bc198d6dd5e4566133e">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-services-youtube-v3-rev149-1.20.0_7a65f4964fb463ebc01ab41080d4f9f25437f9e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9781cdc1ab5e0e0631ff0adbd549f98fe5ebdfd">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-android-1.20.0_05a7d6a508556fe0ca1f37fcd61ade3f0ae31579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsr305-1.3.9_b578af37f802c3c42311e809269192ab6aa2aaa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="06ecb6683e5cfac56a5fa62541bfe40f4428c5ea">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-android-1.20.0_d7ca0af9a427a2abec1e1a25761c4ee8aa65fa68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-2.1.3_de572cbc2e10f209ad63dea97daed28fa9c99d9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="022c751f736f9e3af13168bcc2ec76863fc90839">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-oauth-client-1.20.0_e28904462b5e9d152712ca08db682a419377f3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b26f611c5c1fbf5bcfe7fcdaff4926fcdfd1f304">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.20.0_993985c05c83edb340bb1d58bd439e7ad3d47642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_3dbeff8102158afc0836feb0d13afe5670f58d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_212e8b6c4d8a446eb16f04b356dec3fae21890cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="365f575d25fd6e000a36597ea787b2528af696f8">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-1.20.0_bcd635d632e75eb8d60e878c438fdd953b39d465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b953165c72fe515e474e85a20133abb1148b34fe">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c44d9048f175701d0cbe5b6958ed739dbe046842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Temp\MyTube4\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\Temp\MyTube4\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_bae3d4c6f3f8058dd84e908515ad179942e835dd\classes.dex" />
+    </item>
+
+</items>

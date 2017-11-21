@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98965234875",
+    "project_id": "flytube-163006"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98965234875:android:6a0860c3eeb36720",
+        "android_client_info": {
+          "package_name": "flytube.music.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98965234875-btoqspj8gnrtpdarlj3iu1vk9tb1irq4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "98965234875-hv88ls2jhq8lrhnc4s812akjuumfc9bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flytube.music.player",
+            "certificate_hash": "339217181a1d6e629b3a72d6558ca4f5901e6bec"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG_QvtiXfHtQLTgF_Du017LZIZkA7Cbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
